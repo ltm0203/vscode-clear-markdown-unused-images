@@ -4,6 +4,7 @@
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a>  
 </p>
+
 [![isualStudioMarketplace](https://img.shields.io/badge/VisualStudioMarketplace-v1.0.1-green.svg)](https://marketplace.visualstudio.com/items?itemName=therainisme.clear-markdown-unused-images)
 
 This extension moves unused images in Markdown files to the 'unused-images' folder.
