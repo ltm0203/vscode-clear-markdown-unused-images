@@ -1,0 +1,8 @@
+{
+    "extension.activated": "恭喜，您的扩展“clear-markdown-unused-images”现已激活！",
+    "searching.unused.images": "正在 Markdown 文件中搜索未使用的图像...",
+    "searching.unused.images.in.file": "正在 {0} 中搜索未使用的图像...",
+    "select.markdown.file": "请选择一个 Markdown 文件。",
+    "moved.image": "已将 {0} 移动到 {1}",
+    "moved.unused.images": "已将 {0} 个未使用的图像移动到 {1}"
+}

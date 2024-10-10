@@ -1,0 +1,8 @@
+{
+    "extension.activated": "Congratulations, your extension \"clear-markdown-unused-images\" is now active!",
+    "searching.unused.images": "Searching for unused images in markdown files...",
+    "searching.unused.images.in.file": "Searching for unused images in {0}...",
+    "select.markdown.file": "Please select a Markdown file.",
+    "moved.image": "Moved {0} to {1}",
+    "moved.unused.images": "Moved {0} unused images to {1}"
+}
